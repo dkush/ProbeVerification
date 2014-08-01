@@ -1,0 +1,17 @@
+li.Question-scale-box { width: 4em }
+
+.DashedSentence-sentence{ font-size: 2em}
+.DashedSentence-ispan{ font-size: 2em}
+.Message-sentence{ font-size: 2em}
+.Message-ispan{ font-size: 2em}
+
+.FlashSentence-flashed-sentence{ font-size: 2em}
+.FlashSentence-ispan{font-size:2em}
+
+.Question-Question{font-size:2em}
+.Question-ispan{font-size:2em}
+
+.Separator-next-item-message{ font-size: 2em}
+.Separator-next-item-failure-message{ font-size: 2em}
+
+.Separator-ispan{ font-size: 2em}
