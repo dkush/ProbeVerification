@@ -14,3 +14,10 @@ Setup:
   3. add "global_z.css" and "Probe.css" to "css_includes" folder
   4. Replace "example_data.html"
   5. Add "Probe.js" to "js_includes" folder
+
+==========
+
+Design of Example Experiment
+
+2 (Famous/Fictional Name Prompt) x 2 (Probe Position) x ??
+
